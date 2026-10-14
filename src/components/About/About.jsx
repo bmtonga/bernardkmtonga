@@ -17,7 +17,7 @@ export default function About() {
         <p>
           Outside software development, I enjoy teaching mathematics to
           high-school students who find the subject challenging and playing basketball. Curiosity
-          drives how I learn, and I’m currently taking a course in principles of microeconomics.
+          drives how I learn, and I’m currently taking a course in principles of microeconomics .
         </p>
         <div className="links">
           <a className="action-control primary" href="#contact">

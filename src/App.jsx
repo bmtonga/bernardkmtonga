@@ -6,7 +6,6 @@ import About from "./components/About/About.jsx";
 import TechStack from "./components/TechStack/TechStack.jsx";
 import Projects from "./components/Projects/Projects.jsx";
 import Certificates from "./components/Certificates/Certificates.jsx";
-import Testimonials from "./components/Testimonials/Testimonials.jsx";
 import Contact from "./components/Contact/Contact.jsx";
 import CaseStudy from "./components/CaseStudy/CaseStudy.jsx";
 
@@ -65,7 +64,6 @@ function App() {
         <TechStack />
         <Projects />
         <Certificates />
-        <Testimonials />
       </main>
       <Contact />
     </ThemeProvider>

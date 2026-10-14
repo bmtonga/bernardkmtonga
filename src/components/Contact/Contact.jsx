@@ -6,7 +6,7 @@ export default function Contact() {
     <footer id="contact" className="contact">
       <div className="contact-columns">
         <div className="contact-intro">
-          <small className="contact-eyebrow">05 / GET IN TOUCH</small>
+          <small className="contact-eyebrow">04 / GET IN TOUCH</small>
           <h2>
             I'd love to hear from you.
             <br />

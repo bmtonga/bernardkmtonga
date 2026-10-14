@@ -142,7 +142,7 @@ export default function ContactForm() {
             name="email"
             type="email"
             autoComplete="email"
-            placeholder="racheal.mandona@example.com"
+            placeholder="rmandona@example.com"
             value={values.email}
             onChange={handleChange}
             disabled={isSubmitting}
